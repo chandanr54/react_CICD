@@ -1,4 +1,4 @@
-name :Deploy React App + vite to GitHub Pages
+name: Deploy React App + vite to GitHub Pages
 
 on:
   workflow_dispatch:
